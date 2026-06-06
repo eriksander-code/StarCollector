@@ -6,33 +6,33 @@ Com propósito de evolução no meio de desenvolvimento de jogos e aplicações 
 
 ## Implementações 
 Listo aqui implementações e adições de recursos em relação aos meus projetos anteriores (Graphics-Learning):
-• Leitor de Arquivos .ini;
-• Classe de Teclado e Mouse;
-• Adição de HUD com ImGui;
-• Adição de som com Minisound;
-• Adição de classe de objetos genéricos (BOX_OBJECT_MANAGER);
-• Adição de melhor uso de matrizes em objetos;
-• Melhor arranjo de Vertex e Fragment Shader;
-• Física simples;
-• Parallax;
+- Leitor de Arquivos .ini;
+- Classe de Teclado e Mouse;
+- Adição de HUD com ImGui;
+- Adição de som com Minisound;
+- Adição de classe de objetos genéricos (BOX_OBJECT_MANAGER);
+- Adição de melhor uso de matrizes em objetos;
+- Melhor arranjo de Vertex e Fragment Shader;
+- Física simples;
+- Parallax;
 Entre outros.
 
 ## Tecnologias Utilizadas
-• C++ 17
-• OpenGL
-• GLFW
-• GLAD
-• Minisound
-• Dear ImGui
-• GLM
+- C++ 17
+- OpenGL
+- GLFW
+- GLAD
+- Minisound
+- Dear ImGui
+- GLM
 
 ## Organização de Pastas
-├── src/             # Código-fonte (.cpp e .h) da Engine e do Jogo
-├── shaders/         # Arquivos de Vertex e Fragment Shaders (.vert, .frag)
-├── assets/          # Texturas (.png) e efeitos sonoros (.mp3)
-├── include/         # Cabeçalhos das bibliotecas externas (GLFW, GLM, Glad)
-├── lib-mingw-w64/   # Binários estáticos linkados para a compilação
-└── config/          # Arquivos .ini de configuração do jogo
+- ├── src/             # Código-fonte (.cpp e .h) da Engine e do Jogo
+- ├── shaders/         # Arquivos de Vertex e Fragment Shaders (.vert, .frag)
+- ├── assets/          # Texturas (.png) e efeitos sonoros (.mp3)
+- ├── include/         # Cabeçalhos das bibliotecas externas (GLFW, GLM, Glad)
+- ├── lib-mingw-w64/   # Binários estáticos linkados para a compilação
+- └── config/          # Arquivos .ini de configuração do jogo
 
 ## Como Compilar
 1. Certifique-se de ter MinGW-w64 instalado e configurado em seu computador.
