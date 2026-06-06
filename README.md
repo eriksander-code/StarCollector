@@ -43,8 +43,8 @@ Entre outros.
 
 # Nota Final Sobre Aprendizado
 
-**Foi uma ótima experiência**
+**Foi uma ótima experiência.**
 Acredito que, apesar de ser meu primeiro projeto realmente jogável, este foi o que mais abriu minha mente para o desenvolvimento de games, aprendi loop, renderização e muitas outras coisas. Sem contar de toda a animação, felicidade e entusiasmo que isso me proporcionou, espero ter tempo para continuar a produzir e estudar esse grande universo que é a computação gráfica e desenvolvimento de jogos.
 
-**Foi uma explosão de coisas novas**
+**Foi uma explosão de coisas novas.**
 Dentre todos meus projetos (sem considerar o trajeto como um todo até aqui), este foi o que eu mais aprendi. Desde parallax simples, física simples, até novas tecnologias, tantas coisas que as quais eu não conseguiria listar (pois aprender não é decorar, na necessidade lembramos). Adorei a experiência, espero poder continuar nos estudos e me divertir aprendendo e consolidando meu futuro.
