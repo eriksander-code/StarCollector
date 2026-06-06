@@ -1,3 +1,5 @@
+![Scrennshot do jogo](assets/screenshot.png)
+
 # StarCollector!
 Esse é um projeto de Jogo de coletar estrelas. Criado com propósito de consolidação de conteúdo, ele pode não seguir as melhores tecnologias ou práticas do mercado, mas houve grande esforço em relação à lógica e aprendizado em seu desenvolvimento, veja a baixo mais informações.
 
