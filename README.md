@@ -37,9 +37,9 @@ Here I list implementations and feature additions compared to my previous projec
 - └── config/          # Game configuration .ini files
 
 ## How to Compile
-1. Make sure you have MinGW-w64 installed and set up on your computer.
+1. Make sure you have MinGW-w64 and Make installed and set up on your computer.
 2. Clone the repository.
-3. Run Build.bat or make from the root directory.
+3. Run Build.bat or make from the root directory in the terminal (or mingw32-make on Windows with MinGW).
 4. Enjoy.
 
 # Final Note on Learning
