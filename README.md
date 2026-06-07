@@ -1,25 +1,25 @@
-![Scrennshot do jogo](assets/screenshot.png)
+![Game Screenshot](assets/screenshot.png)
 
 # StarCollector!
-Esse é um projeto de Jogo de coletar estrelas. Criado com propósito de consolidação de conteúdo, ele pode não seguir as melhores tecnologias ou práticas do mercado, mas houve grande esforço em relação à lógica e aprendizado em seu desenvolvimento, veja a baixo mais informações.
+This is a star-collecting game project. Created for the purpose of consolidating knowledge, it may not follow the best technologies or market practices, but a great deal of effort was put into its logic and learning during development. See below for more information.
 
-## Sobre o Projeto
-Com propósito de evolução no meio de desenvolvimento de jogos e aplicações gráficas, esse foi um jogo que criado junto de sua pequena Engine, serve de alicerce pra estudar e aprender novas tecnologias. É, em sua maior parte, um projeto de aprendizado, estruturação e outras coisas.
+## About the Project
+Aimed at evolving within the field of game development and graphical applications, this game was built alongside its own small Engine, serving as a foundation to study and learn new technologies. For the most part, it is a learning, structuring, and experimentation project.
 
-## Implementações 
-Listo aqui implementações e adições de recursos em relação aos meus projetos anteriores (Graphics-Learning):
-- Leitor de Arquivos .ini;
-- Classe de Teclado e Mouse;
-- Adição de HUD com ImGui;
-- Adição de som com Minisound;
-- Adição de classe de objetos genéricos (BOX_OBJECT_MANAGER);
-- Adição de melhor uso de matrizes em objetos;
-- Melhor arranjo de Vertex e Fragment Shader;
-- Física simples;
+## Implementations
+Here I list implementations and feature additions compared to my previous projects (Graphics-Learning):
+- .ini file reader;
+- Keyboard and Mouse class;
+- HUD addition with ImGui;
+- Sound addition with Minisound;
+- Generic object class addition (BOX_OBJECT_MANAGER);
+- Improved matrix usage on objects;
+- Better arrangement of Vertex and Fragment Shaders;
+- Simple physics;
 - Parallax;
-Entre outros.
+- Among others.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - C++ 17
 - OpenGL
 - GLFW
@@ -28,25 +28,24 @@ Entre outros.
 - Dear ImGui
 - GLM
 
-## Organização de Pastas
-- ├── src/             # Código-fonte (.cpp e .h) da Engine e do Jogo
-- ├── shaders/         # Arquivos de Vertex e Fragment Shaders (.vert, .frag)
-- ├── assets/          # Texturas (.png) e efeitos sonoros (.mp3)
-- ├── include/         # Cabeçalhos das bibliotecas externas (GLFW, GLM, Glad)
-- ├── lib-mingw-w64/   # Binários estáticos linkados para a compilação
-- └── config/          # Arquivos .ini de configuração do jogo
+## Folder Structure
+- ├── src/             # Source code (.cpp and .h) for Engine and Game
+- ├── shaders/         # Vertex and Fragment Shader files (.vert, .frag)
+- ├── assets/          # Textures (.png) and sound effects (.mp3)
+- ├── include/         # Headers for external libraries (GLFW, GLM, Glad)
+- ├── lib-mingw-w64/   # Linked static binaries for compilation
+- └── config/          # Game configuration .ini files
 
-## Como Compilar
-1. Certifique-se de ter MinGW-w64 instalado e configurado em seu computador.
-2. Clone o repositório.
-3. Rode com Build.bat ou make a partir do diretório raiz.
-4. Aprecie.
+## How to Compile
+1. Make sure you have MinGW-w64 installed and set up on your computer.
+2. Clone the repository.
+3. Run Build.bat or make from the root directory.
+4. Enjoy.
 
+# Final Note on Learning
 
-# Nota Final Sobre Aprendizado
+**It was a great experience.**
+I believe that, even though this is my first truly playable project, it was the one that opened my mind the most to game development. I learned about game loops, rendering, and many other things. Not to mention all the excitement, joy, and enthusiasm it brought me. I hope to have the time to continue producing and studying this vast universe of computer graphics and game development.
 
-**Foi uma ótima experiência.**
-Acredito que, apesar de ser meu primeiro projeto realmente jogável, este foi o que mais abriu minha mente para o desenvolvimento de games, aprendi loop, renderização e muitas outras coisas. Sem contar de toda a animação, felicidade e entusiasmo que isso me proporcionou, espero ter tempo para continuar a produzir e estudar esse grande universo que é a computação gráfica e desenvolvimento de jogos.
-
-**Foi uma explosão de coisas novas.**
-Dentre todos meus projetos (sem considerar o trajeto como um todo até aqui), este foi o que eu mais aprendi. Desde parallax simples, física simples, até novas tecnologias, tantas coisas que as quais eu não conseguiria listar (pois aprender não é decorar, na necessidade lembramos). Adorei a experiência, espero poder continuar nos estudos e me divertir aprendendo e consolidando meu futuro.
+**It was an explosion of new things.**
+Among all my projects (without considering the journey as a whole up to this point), this is the one I learned the most from. From simple parallax, simple physics, to new technologies — so many things that I couldn't possibly list them all (because learning is not about memorizing; we remember when needed). I loved the experience, and I hope to continue my studies and have fun learning and consolidating my future.
